@@ -6,6 +6,7 @@
 #include "util.h"
 
 #include <sys/types.h>
+#include <sys/stat.h>
 #include <netinet/ether.h>
 #include <linux/hdreg.h>
 #include <linux/fs.h>
