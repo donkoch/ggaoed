@@ -51,6 +51,10 @@ packet interface for sending data requires kernel 2.6.31 or later.
 Building and installing
 -----------------------
 
+If you've cloned the git (or svn) repo, you may need to first run:
+
+	autoreconf -i
+
 Just run
 	
 	./configure
